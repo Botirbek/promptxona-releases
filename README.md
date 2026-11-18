@@ -2,7 +2,7 @@
 
 Claude Code va Codex agentlari uchun Windows boshqaruv markazi.
 
-![PromptXona: loyiha vazifalari](screenshot.png)
+![PromptXona: bosh sahifa](screenshots/home.png)
 
 ## Yuklab olish
 
@@ -14,3 +14,13 @@ Sahifadagi `PromptXona-Setup-<versiya>.exe` faylini yuklab oling va ishga tushir
 - **"Windows protected your PC" chiqsa,** **More info → Run anyway** bosing. Installer hali raqamli imzoga ega emas.
 - **Claude Code** alohida o'rnatiladi: https://claude.com/claude-code. Codex esa installer ichida keladi.
 - **Yangilanishlar avtomatik.** PromptXona yangi versiyani o'zi topadi va orqa fonda yuklab oladi.
+
+## Ko'rinishi
+
+**Chat.** Agent nima o'qigani, nimani o'zgartirgani va qaysi buyruqni ishga tushirgani bitta oqimda ko'rinadi.
+
+![PromptXona: chat](screenshots/chat.png)
+
+**Vazifalar.** Har bir loyihada kanban: vazifadan bir bosishda agent sessiyasi ochiladi, holati kartochkada ko'rinadi.
+
+![PromptXona: vazifalar](screenshots/tasks.png)
