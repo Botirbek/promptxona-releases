@@ -2,6 +2,8 @@
 
 Claude Code va Codex agentlari uchun Windows boshqaruv markazi.
 
+![PromptXona: loyiha vazifalari](screenshot.png)
+
 ## Yuklab olish
 
 **[⬇ PromptXona'ning so'nggi versiyasini yuklab olish](https://github.com/Botirbek/promptxona-releases/releases/latest)**
